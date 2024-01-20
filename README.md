@@ -4,7 +4,7 @@ This repository contains simple artificial intelligence examples developed durin
 
 This repo includes:
 
-##Python graphic drawing examples
-##Data preprocessing examples
-##Machine Learning algorithms usage examples
-##Deep Learning examples
+-Python graphic drawing examples
+-Data preprocessing examples
+-Machine Learning algorithms usage examples
+-Deep Learning examples
