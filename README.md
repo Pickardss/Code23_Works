@@ -1,10 +1,10 @@
-#Simple_Works
+#Code23_Works
 
-I wrote these codes during the code23 artificial intelligence and data science course. These are simple examples for artificial intelligence.
+This repository contains simple artificial intelligence examples developed during the Code23 AI and Data Science course. Below are various examples categorized under different topics.
 
 This repo includes:
 
--Python graphic drawing examples
--Data preprocessing examples
--Machine Learning algorithms usage examples
--Deep Learning examples
+##Python graphic drawing examples
+##Data preprocessing examples
+##Machine Learning algorithms usage examples
+##Deep Learning examples
